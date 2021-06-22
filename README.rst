@@ -9,9 +9,9 @@ Packages for interfacing ROS with OpenCV, a library of programming functions for
 
 
 
-<hr>
+———　
 
 Added by @PolyU-Robocon
 
-This is a CV Bridge package for OpenCV 4.
-Applicable on Jetson.
+*　This is a CV Bridge package for OpenCV 4.
+* Applicable on Jetson.
